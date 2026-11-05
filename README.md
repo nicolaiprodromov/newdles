@@ -261,5 +261,12 @@ newdles builds on two classic papers:
 
 ---
 
+*newdles is free software, licensed under the [GNU General Public License v3.0 or later](LICENSE)
+(GPL-3.0-or-later).*
+
+*This software is provided **"as is"**, without warranty of any kind, express or implied. You use it entirely at your own
+risk. The author is **not responsible or liable** for any loss, damage, corrupted or lost work, or any other harm
+arising from the use of this software. Always keep backups of your `.blend` files before using it.*
+
 *newdles is partly vibe-coded with AI. A Python script writes the node group, and a headless test suite checks it
 in Blender.*
